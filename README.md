@@ -4,6 +4,6 @@
   </a>
   &emsp;
   <a href="https://github.com/For-Tr">
-    <img width="400" align="top" src="github-metrics-right.svg" alt="For-Tr GitHub achievements" />
+    <img width="400" align="top" src="github-metrics-right.svg" alt="For-Tr GitHub contribution calendar and recently starred repositories" />
   </a>
 </p>
